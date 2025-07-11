@@ -1,2 +1,2 @@
 main:
-	gcc main.c -o pong -lraylib
+	gcc main.c -o pong -lraylib -lm
